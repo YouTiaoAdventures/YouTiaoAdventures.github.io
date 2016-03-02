@@ -102,6 +102,30 @@ a:hover {
     color: green;
 }
 
+.middle {
+    position: fixed;
+    top: 45%;
+    left: 45%;
+    height: 50px;
+    width: 50px;
+}
+
+.middle p {
+    font-size: 40px;
+    font-style: bold;
+}
+
+#enter {
+    color: black;
+}
+
+#enter:hover {
+    color: white;
+}
+
+#background_img {
+    opacity: 0.8;
+}
 
 
 
